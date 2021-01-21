@@ -10,3 +10,5 @@ Hello, World!
 Hello, World!
 
 Bugfix/small improvement
+Crazy new feature that might not work!
+Stabilize feature
