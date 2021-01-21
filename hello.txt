@@ -13,5 +13,6 @@ Bugfix/small improvement
 Crazy new feature that might not work!
 Stabilize feature
 
+Another bugfix
 More changes
 Even more changes
